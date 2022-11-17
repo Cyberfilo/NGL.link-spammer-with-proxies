@@ -37,7 +37,7 @@ it will **not** send all the sents that you see, it will send around 70 NGL's pe
 
 
 
-<sub> MOST OF THE CODE CREDITS TO  https://github.com/BrailyGuzman/NGL.LINK-Spammer</sub>
+
 
 
 
